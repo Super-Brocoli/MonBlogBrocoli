@@ -41,6 +41,9 @@ header{
     color: rgb(0, 0, 0);
     font-size: 1.2em;
 }
+.header__nav__a:hover{
+    border-bottom: black solid 3px;
+}
 body{
     font-family: 'Josefin Sans', sans-serif;
 }
